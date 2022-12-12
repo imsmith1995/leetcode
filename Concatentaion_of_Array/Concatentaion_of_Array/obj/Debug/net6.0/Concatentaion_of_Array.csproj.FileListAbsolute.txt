@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\bin\Debug\net6.0\Concatentaion_of_Array.exe
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\bin\Debug\net6.0\Concatentaion_of_Array.deps.json
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\bin\Debug\net6.0\Concatentaion_of_Array.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\bin\Debug\net6.0\Concatentaion_of_Array.dll
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\bin\Debug\net6.0\Concatentaion_of_Array.pdb
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.dll
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\refint\Concatentaion_of_Array.dll
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.pdb
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\Concatentaion_of_Array.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Concatentaion_of_Array\Concatentaion_of_Array\obj\Debug\net6.0\ref\Concatentaion_of_Array.dll

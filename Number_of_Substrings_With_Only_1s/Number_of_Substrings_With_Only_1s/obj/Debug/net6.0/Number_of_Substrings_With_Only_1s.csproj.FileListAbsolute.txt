@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\bin\Debug\net6.0\Number_of_Substrings_With_Only_1s.exe
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\bin\Debug\net6.0\Number_of_Substrings_With_Only_1s.deps.json
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\bin\Debug\net6.0\Number_of_Substrings_With_Only_1s.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\bin\Debug\net6.0\Number_of_Substrings_With_Only_1s.dll
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\bin\Debug\net6.0\Number_of_Substrings_With_Only_1s.pdb
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.dll
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\refint\Number_of_Substrings_With_Only_1s.dll
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.pdb
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\Number_of_Substrings_With_Only_1s.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Number_of_Substrings_With_Only_1s\Number_of_Substrings_With_Only_1s\obj\Debug\net6.0\ref\Number_of_Substrings_With_Only_1s.dll

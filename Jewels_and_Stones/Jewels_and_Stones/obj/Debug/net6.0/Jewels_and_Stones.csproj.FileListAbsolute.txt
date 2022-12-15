@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\bin\Debug\net6.0\Jewels_and_Stones.exe
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\bin\Debug\net6.0\Jewels_and_Stones.deps.json
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\bin\Debug\net6.0\Jewels_and_Stones.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\bin\Debug\net6.0\Jewels_and_Stones.dll
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\bin\Debug\net6.0\Jewels_and_Stones.pdb
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.dll
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\refint\Jewels_and_Stones.dll
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.pdb
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\Jewels_and_Stones.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Jewels_and_Stones\Jewels_and_Stones\obj\Debug\net6.0\ref\Jewels_and_Stones.dll

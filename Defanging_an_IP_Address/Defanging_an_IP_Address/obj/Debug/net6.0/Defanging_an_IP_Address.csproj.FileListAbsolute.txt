@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\bin\Debug\net6.0\Defanging_an_IP_Address.exe
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\bin\Debug\net6.0\Defanging_an_IP_Address.deps.json
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\bin\Debug\net6.0\Defanging_an_IP_Address.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\bin\Debug\net6.0\Defanging_an_IP_Address.dll
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\bin\Debug\net6.0\Defanging_an_IP_Address.pdb
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.dll
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\refint\Defanging_an_IP_Address.dll
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.pdb
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\Defanging_an_IP_Address.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Defanging_an_IP_Address\Defanging_an_IP_Address\obj\Debug\net6.0\ref\Defanging_an_IP_Address.dll

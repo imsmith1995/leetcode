@@ -1,8 +1,13 @@
-﻿
-string address = "1.1.1.1";
-DefangIPaddr(address);
-string DefangIPaddr(string address)
+﻿/*
+Given a valid (IPv4) IP address, return a defanged version of that IP address.
+
+A defanged IP address replaces every period "." with "[.]".
+*/
+
+public class Solution
 {
-   string q = address.Replace(".", "[.]");
-    return q;
+    public string DefangIPaddr(string address)
+    {
+        return address.Replace(".", "[.]");
+    }
 }

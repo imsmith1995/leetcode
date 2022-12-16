@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\bin\Debug\net6.0\Multiply_Strings.exe
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\bin\Debug\net6.0\Multiply_Strings.deps.json
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\bin\Debug\net6.0\Multiply_Strings.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\bin\Debug\net6.0\Multiply_Strings.dll
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\bin\Debug\net6.0\Multiply_Strings.pdb
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.dll
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\refint\Multiply_Strings.dll
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.pdb
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\Multiply_Strings.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Multiply_Strings\Multiply_Strings\obj\Debug\net6.0\ref\Multiply_Strings.dll

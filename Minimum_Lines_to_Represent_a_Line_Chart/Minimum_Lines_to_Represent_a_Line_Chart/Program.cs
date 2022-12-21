@@ -1,4 +1,11 @@
-﻿public class Solution
+﻿/*
+You are given a 2D integer array stockPrices where 
+stockPrices[i] = [dayi, pricei] indicates the price of the stock on day dayi is pricei.
+A line chart is created from the array by plotting the points on an XY plane with the X-axis representing
+the day and the Y-axis representing the price and connecting adjacent points.
+*/
+
+public class Solution
 {
     public int MinimumLines(int[][] stockPrices)
     {

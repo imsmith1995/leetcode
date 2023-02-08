@@ -1,22 +1,28 @@
-﻿
+﻿/*
+Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
 
-int x = 4;
-MySqrt(x);
+You must not use any built-in exponent function or operator.
 
-int MySqrt(int x)
+For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
+ 
+*/
+
+public class Solution
 {
-    if (x == 1)
+    public int MySqrt(int x)
     {
-        return x;
-    }
-    for (double i = 0; i <= x; i++)
-    {
-
-        if (i * i > x)
+        if (x == 1)
         {
-            return Convert.ToInt32(i - 1);
-            break;
+            return x;
         }
+        for (double i = 0; i <= x; i++)
+        {
+
+            if (i * i > x)
+            {
+                return Convert.ToInt32(i - 1);
+            }
+        }
+        return 0;
     }
-    return 0;
 }

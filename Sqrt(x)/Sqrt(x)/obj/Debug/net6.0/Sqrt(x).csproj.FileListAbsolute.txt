@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\bin\Debug\net6.0\Sqrt(x).exe
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\bin\Debug\net6.0\Sqrt(x).deps.json
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\bin\Debug\net6.0\Sqrt(x).runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\bin\Debug\net6.0\Sqrt(x).dll
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\bin\Debug\net6.0\Sqrt(x).pdb
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).dll
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\refint\Sqrt(x).dll
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).pdb
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\Sqrt(x).genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Sqrt(x)\Sqrt(x)\obj\Debug\net6.0\ref\Sqrt(x).dll

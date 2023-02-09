@@ -6,32 +6,27 @@ substring
 consisting of non-space characters only.
  */
 
-var s = "    orld";
-LengthOfLastWord(s);
-int LengthOfLastWord(string s)
+public class Solution
 {
-    var holder = s.ToArray();
-    int spaceCounter = 0;
-    int spaceChecker = 0;
-    int ans = 0;
-    foreach(var item in holder)
+    public int LengthOfLastWord(string s)
     {
-        if(item is ' ')
-        {
-            spaceCounter++;
-        }
-    }
-    for(int i = 0; i < holder.Length; i++)
-    {
-        if( spaceCounter == spaceChecker)
-        {
-            ans++;
-        }
-        if (holder[i] is ' ')
-        {
-            spaceChecker++;
-        }
-    }
+        var lastWord = s.Length;
+        int ans = 0;
+        bool foundWord = false;
 
-    return ans;
+        for (int i = lastWord - 1; i >= 0; i--)
+        {
+            if (s[i] != ' ')
+            {
+                foundWord = true;
+                ans++;
+                continue;
+            }
+            else if (foundWord)
+            {
+                break;
+            }
+        }
+        return ans;
+    }
 }

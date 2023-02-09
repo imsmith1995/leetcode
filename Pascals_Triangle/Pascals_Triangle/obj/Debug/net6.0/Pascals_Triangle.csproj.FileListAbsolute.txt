@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\bin\Debug\net6.0\Pascals_Triangle.exe
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\bin\Debug\net6.0\Pascals_Triangle.deps.json
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\bin\Debug\net6.0\Pascals_Triangle.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\bin\Debug\net6.0\Pascals_Triangle.dll
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\bin\Debug\net6.0\Pascals_Triangle.pdb
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.dll
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\refint\Pascals_Triangle.dll
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.pdb
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\Pascals_Triangle.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Pascals_Triangle\Pascals_Triangle\obj\Debug\net6.0\ref\Pascals_Triangle.dll

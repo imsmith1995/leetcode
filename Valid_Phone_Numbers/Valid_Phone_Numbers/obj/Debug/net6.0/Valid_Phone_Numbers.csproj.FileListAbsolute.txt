@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\bin\Debug\net6.0\Valid_Phone_Numbers.exe
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\bin\Debug\net6.0\Valid_Phone_Numbers.deps.json
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\bin\Debug\net6.0\Valid_Phone_Numbers.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\bin\Debug\net6.0\Valid_Phone_Numbers.dll
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\bin\Debug\net6.0\Valid_Phone_Numbers.pdb
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.dll
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\refint\Valid_Phone_Numbers.dll
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.pdb
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\Valid_Phone_Numbers.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Valid_Phone_Numbers\Valid_Phone_Numbers\obj\Debug\net6.0\ref\Valid_Phone_Numbers.dll

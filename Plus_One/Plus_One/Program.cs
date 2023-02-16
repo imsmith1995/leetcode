@@ -1,34 +1,47 @@
-﻿
+﻿/*
+You are given a large integer represented as an integer array digits, 
+where each digits[i] is the ith digit of the integer. 
+The digits are ordered from most significant to least significant in left-to-right order. 
+The large integer does not contain any leading 0's.
 
-int[] digits = new int[3] {1,2,3};
+Increment the large integer by one and return the resulting array of digits.
+ */
+
+int[] digits = new int[3] {8,9,9};
 PlusOne(digits);
 
 int[] PlusOne(int[] digits)
 {
-    var total = 0;
-    var multiple = 1;
-    int[] ans = new int[3];
-    if(digits.Length > 1)
+    int carry = 0;
+    digits[digits.Length-1]++;
+    for(int i = digits.Length-1; i >= 1; i--)
     {
-        for(int i = 1; i< digits.Length; i++)
+        if (digits[i] > 9)
         {
-            multiple = multiple * 10;
+            carry++;
+            digits[i] = 0;
         }
-    }
-    var deltaMultiple = multiple;
-    foreach(int digit in digits)
-    {
-        total += digit * deltaMultiple;
-        deltaMultiple = deltaMultiple / 10;
-    }
-    total++;
-    var betaMultiple = multiple;
-    //issues here. needs addressing
-    for(int i = 0; i< digits.Length; i++)
-    {
-        var primeAns = total;
-        ans[i] = primeAns/betaMultiple;
+
+        digits[i-1] += carry;
+        carry = 0;
 
     }
-    return new int[2];
+    int[] ans = new int[digits.Length + 1];
+    bool flag = false;
+    if (digits[0] > 9)
+    {
+        flag = true;
+        ans[0] = 1;
+        ans[1] = 0;
+        for(int i = 2; i < ans.Length; i++)
+        {
+            ans[i] = digits[i-1];
+        }
+    }
+    if(flag is true)
+    {
+        return ans;
+    }
+    else
+    return digits;
 }

@@ -1,0 +1,15 @@
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\bin\Debug\net6.0\Prime_Numbers.exe
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\bin\Debug\net6.0\Prime_Numbers.deps.json
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\bin\Debug\net6.0\Prime_Numbers.runtimeconfig.json
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\bin\Debug\net6.0\Prime_Numbers.dll
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\bin\Debug\net6.0\Prime_Numbers.pdb
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.csproj.AssemblyReference.cache
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.AssemblyInfoInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.AssemblyInfo.cs
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.dll
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\refint\Prime_Numbers.dll
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.pdb
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\Prime_Numbers.genruntimeconfig.cache
+C:\Users\imsmi\source\repos\leetcode\Prime_Numbers\Prime_Numbers\obj\Debug\net6.0\ref\Prime_Numbers.dll

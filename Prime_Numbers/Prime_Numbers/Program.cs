@@ -17,7 +17,7 @@ List<int> FindPrimeNumbers(int rangeStart, int rangeEnd)
     List<int> result = new List<int>();
     for(int i = rangeStart; i <= rangeEnd; i++)
     {
-        if( i%2 == 0 )
+        if( i%1 == i && i%i == 0)
         {
             result.Add(i);
         }
